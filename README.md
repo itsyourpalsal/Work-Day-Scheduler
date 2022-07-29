@@ -5,7 +5,7 @@ A simple calendar application that allows a user to save events for each hour of
 
 
 ## Deployment Link
-
+https://itsyourpalsal.github.io/Work-Day-Scheduler/
 
 ## Contributor:
 Salvador Beltran ©2022 All Rights Reserved.
